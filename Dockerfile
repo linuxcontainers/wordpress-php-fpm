@@ -1,6 +1,5 @@
 FROM wordpress:php8.0-fpm-alpine
 
-WORKDIR /tmp/
 RUN set -xe; \
   apk --no-cache update && apk --no-cache upgrade \
   && apk add --no-cache --virtual .build-deps ${PHPIZE_DEPS} \
