@@ -5,7 +5,7 @@
 [![Docker Stars](https://img.shields.io/docker/stars/linuxcontainers/wordpress-php-fpm.svg?style=for-the-badge&logo=docker)](https://hub.docker.com/r/linuxcontainers/wordpress-php-fpm/)
 ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/linuxcontainers/wordpress-php-fpm/latest?logo=docker&style=for-the-badge)
 
-[![PHP Version](https://img.shields.io/badge/0version-v8.0.2-green.svg?style=for-the-badge)](https://php.org/)
+[![PHP Version](https://img.shields.io/badge/0version-v8.1.2-green.svg?style=for-the-badge)](https://php.org/)
 [![Wordpress Version](https://img.shields.io/badge/Wordpress%20version-v5.x-green.svg?style=for-the-badge)](https://wordpress.org/)
 
 This Docker image [(linuxcontainers/wordpress-php-fpm)](https://hub.docker.com/r/linuxcontainers/wordpress-php-fpm/) is based on the Wordpress 5.x.
