@@ -1,4 +1,4 @@
-FROM wordpress:php8.1-fpm-alpine
+FROM wordpress:php8.2-fpm-alpine
 
 RUN set -xe; \
   apk --no-cache update && apk --no-cache upgrade \
